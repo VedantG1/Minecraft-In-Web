@@ -1,0 +1,12 @@
+.body1{
+    background-color: grey;
+    background-position: center;
+    background-size: cover;
+    font-size: 30px;
+}
+.heading1{
+    color: green;
+    background-color: white;
+    width: 600px;
+    opacity: 0.8;
+}
